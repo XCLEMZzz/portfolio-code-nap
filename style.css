@@ -270,7 +270,7 @@ p {
 }
 
 .social-icons a:hover i {
-    color: #444;
+    color: black;
     transform: scale(1.1);
 }
 
@@ -290,7 +290,7 @@ p {
 }
 
 .skills-icons i:hover {
-    color: #444;
+    color: black;
     transform: scale(1.1);
 }
 
@@ -407,6 +407,7 @@ p {
 .education-section:hover,
 .skills-section:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 25px black;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
 
 }
+
