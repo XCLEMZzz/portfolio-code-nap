@@ -15,10 +15,6 @@
     z-index: -1;
 }
 
-h2 , h1 , p , h5 , h4 {
-    color: black;
-}
-
 .line-container {
     display: flex;
     align-items: center;
@@ -33,7 +29,6 @@ h2 , h1 , p , h5 , h4 {
 
 i {
     font-size: 25px;
-    color: black;
 }
 
 .mouse {
@@ -858,4 +853,5 @@ i{
         margin: 20px 0;
     }
 }
+
 
